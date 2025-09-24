@@ -60,6 +60,9 @@ Objective: Build a data analytics solution that helps AML teams identify high-ri
     Transaction Date (dd mmm yyyy) =
     FORMAT(Transactions[TransactionDate], "DD MMM YYYY")
 
+## Dashboard Preview
+[Click here to view the Dashboard](https://github.com/Aishwaryasc-96/AML-Transaction-Monitoring-Risk-Analysis---Power-BI-/blob/main/AML%20Transaction%20Monitoring%20%26%20Risk%20Analysis%20Dashboard.pdf)
+
 ## Insights & Outcomes (from the dashboard)
 •	Online contributes the largest share of transaction value, followed by Mobile; Branch is minimal — focus monitoring on digital channels.
 
